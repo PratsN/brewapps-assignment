@@ -1,0 +1,23 @@
+.text-style {
+    padding-top: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-content {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 1rem;
+}
+
+.sub-content {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+}
