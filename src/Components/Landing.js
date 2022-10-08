@@ -62,6 +62,8 @@ console.log(searchText)
         </Grid>
       </Box>
 
+
+     <Footer/>
     
         </>
 
