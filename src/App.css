@@ -1,6 +1,9 @@
 body {
   background-color: black;
 }
+a{
+  text-decoration: none;
+}
 
 
 .App {
@@ -44,4 +47,5 @@ body {
     transform: rotate(360deg);
   }
 }
+
 
